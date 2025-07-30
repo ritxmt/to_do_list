@@ -1,12 +1,10 @@
 body {
-
     background: rgb(158 158 158);
 }
 
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-
 }
 
 .cantainer {
@@ -21,39 +19,33 @@ h1 {
 }
 
 .simbol {
-
-        font-size: 70px;
+    font-size: 70px;
     margin-left: 635px;
     margin-top: -29px;
     border: 2px solid black;
     width: 80px;
     border-radius: 50px;
-
 }
 
 .add {
-
     margin-top: -592px;
     margin-left: 540px;
     font-size: 21px;
- 
-
 }
-.cantainer{
 
+.cantainer{
    background-image: linear-gradient(to bottom right, rgb(4 95 116 / 89%), rgb(0, 255, 213));
 }
 
 textarea{
-
-
-margin-left: 78px;  
-
-
+    margin-left: 78px;  
 }
+
 .title{
+    margin-left: 20;
+}
 
-
-margin-left: 20px;
-
+.fa{
+    margin-left: 400px;
+    margin-top: 10px;
 }
