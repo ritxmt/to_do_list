@@ -1,4 +1,59 @@
-body{
+body {
 
-    background: #000;
+    background: rgb(158 158 158);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.cantainer {
+
+    border: 2px solid black;
+    width: 800px;
+    height: 700px;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 7px;
+
+}
+
+.simbol {
+
+        font-size: 70px;
+    margin-left: 635px;
+    margin-top: -29px;
+    border: 2px solid black;
+    width: 80px;
+    border-radius: 50px;
+
+}
+
+.add {
+
+    margin-top: -592px;
+    margin-left: 540px;
+    font-size: 21px;
+ 
+
+}
+.cantainer{
+
+   background-image: linear-gradient(to bottom right, rgb(4 95 116 / 89%), rgb(0, 255, 213));
+}
+
+textarea{
+
+
+margin-left: 78px;  
+
+
+}
+.title{
+
+
+margin-left: 20px;
+
 }
